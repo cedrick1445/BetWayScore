@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BetWayScore</string>
+    <string name="no_live">No live match currently available now....</string>
+    <string name="football_title"><b>Live Football Match</b></string>
+    <string name="no_data">No data currently available</string>
+    <string name="basket_title">Live Basketball Game</string>
+
+    <string name="live_match">Loading live match, Please wait ....</string>
+</resources>
